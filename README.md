@@ -1,10 +1,19 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3591F7&center=true&vCenter=true&width=600&lines=Lap+Chu;Full+Stack+Developer+(2%2B+Years+Exp);Monash+Advanced+CS+Graduate;AI-Native+Engineer" alt="Typing SVG" />
+  <h1>Lap Chu</h1>
+  <h3>Full Stack Developer | AI-Native Engineer</h3>
+  <p>
+    <b>Monash Advanced CS Graduate</b> • <b>2+ Years Experience</b> • <b>Melbourne, AU</b>
+  </p>
+  
+  <a href="https://www.linkedin.com/in/lap-chu-a96a1a3a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+  </a>
+  <a href="mailto:chucolin2021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
 </div>
 
-<br/>
+<br />
 
 ### 👨‍💻 Professional Summary
 **Advanced Computer Science Graduate** from **Monash University** with over **2 years of full-stack development experience**. 
