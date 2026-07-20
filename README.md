@@ -2,7 +2,7 @@
 
 # Lap Chu
 
-### AI Agent Developer · Full-Stack Engineer
+### QA · Full-Stack Engineer
 
 I build reliable AI-native products—from prompt design and APIs to testing and cloud deployment.
 
