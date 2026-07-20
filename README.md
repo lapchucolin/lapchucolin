@@ -44,7 +44,7 @@ I am a Monash University Computer Science (Advanced) graduate who enjoys turning
     <td width="34%" valign="top">
       <h3>KIT Care</h3>
       <p><strong>Production web &amp; enquiry workflow</strong></p>
-        <p><a href="[(https://kit-care.com/)">Visit live product →</a></p>
+        <p><a href="https://kit-care.com">Visit live product →</a></p>
     </td>
     <td valign="top">
       Developed a responsive care-services website and serverless enquiry API with email delivery. Added validation, rate limiting, bot protection, Victorian suburb/postcode edge-case handling, search metadata, and focused API/UI regression checks.
